@@ -16,9 +16,9 @@ const initdb = async () =>
 export const putDb = async (content) => {
 // console.error('putDb not implemented');
 console.log('PUT to the database');
-const todosDb = await openDB('todos', 1);
-const tx = todosDb.transaction('todos', 'readwrite');
-const store = tx.objectStore('todos');
+const todosDb = await openDB('jate', 1);
+const tx = todosDb.transaction('jate', 'readwrite');
+const store = tx.objectStore('jate');
 const request = store.put({ id: 1, text: content });
 const result = await request;
 console.log('🚀 - data saved to the database', result);
@@ -27,9 +27,9 @@ console.log('🚀 - data saved to the database', result);
 export const getDb = async () => {
 // console.error('getDb not implemented');
 console.log('GET from the database');
-const todosDb = await openDB('todos', 1);
-const tx = todosDb.transaction('todos', 'readonly');
-const store = tx.objectStore('todos');
+const todosDb = await openDB('jate', 1);
+const tx = todosDb.transaction('jate', 'readonly');
+const store = tx.objectStore('jate');
 const request = store.get(1);
 const result = await request;
 console.log('result.value', result);
