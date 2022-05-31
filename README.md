@@ -32,7 +32,7 @@
     <a href="https://github.com/waldo-22/pwaTextEditor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Deployed Application</a>
+    <a href="https://warm-mesa-24939.herokuapp.com">View Deployed Application</a>
     ·
     <a href="https://github.com/waldo-22/pwaTextEditor/issues">Report Bug</a>
     ·
