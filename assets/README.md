@@ -16,7 +16,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -79,7 +79,7 @@ This repository allows you to install and use project offline via pwa.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
-* [Sequelize](https://sequelize.org/)
+<!-- * [Sequelize](https://sequelize.org/) -->
 * [PWA](https://web.dev/progressive-web-apps/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -145,8 +145,8 @@ Project Link: [https://github.com/waldo-22/pwaTextEditor](https://github.com/wal
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/nearcatch/nu-project2-big-bet-sports.svg?style=for-the-badge
-[contributors-url]: https://github.com/nearcatch/nu-project2-big-bet-sports/graphs/contributors
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/nearcatch/nu-project2-big-bet-sports.svg?style=for-the-badge
+[contributors-url]: https://github.com/nearcatch/nu-project2-big-bet-sports/graphs/contributors -->
 [forks-shield]: https://img.shields.io/github/forks/nearcatch/nu-project2-big-bet-sports.svg?style=for-the-badge
 [forks-url]: https://github.com/nearcatch/nu-project2-big-bet-sports/network/members
 [stars-shield]: https://img.shields.io/github/stars/nearcatch/nu-project2-big-bet-sports.svg?style=for-the-badge
